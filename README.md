@@ -11,4 +11,4 @@ PySTEMM requires these open-source modules to be installed:
 - numpy, pylab (for numerical integration, graph plots)
 - pylpsolve (for integer linear programming solver)
 
-Visualization requires OmnigrafflePro.
+Visualization requires OmnigrafflePro on OSX.
