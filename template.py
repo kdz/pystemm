@@ -1,4 +1,4 @@
-## This module defines:
+## This module is for defining visualizations. It contains:
 ##      Templates: dicts of OmniGraffle properties, including deferred functions
 ##      Functions to merge templates together, and to apply a template to a Concept, Instance, etc.
 ##      Utility functions to calculate display names and text for concepts, instances, & lines

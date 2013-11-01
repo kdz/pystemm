@@ -1,4 +1,4 @@
-## This module provides utility functions around the "traits" module
+## This module provides utility functions around the Enthought "traits" module
 ## Other parts of PySTEMM use these utility functions
 
 import traits.api as TR

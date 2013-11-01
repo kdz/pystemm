@@ -1,4 +1,5 @@
 ## The Model class is the main class used to build actual PySTEMM models
+## It traverses concept types and instances, analyzes, and generates visualizations
 ## It's main public methods are addClasses, addInstances, and showXYZ
 
 import appscript

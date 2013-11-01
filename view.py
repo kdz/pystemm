@@ -1,4 +1,4 @@
-## The View class is the main interface from PySTEMM models to OmniGraffle
+## The View class is the main interface from PySTEMM models to OmniGraffle, via appscript
 
 import appscript
 
