@@ -1,6 +1,8 @@
 from model import *
 import pylpsolve
 
+# pylpsolve used as Integer-Linear Programming Solver 
+
 class Element(Concept):
     name = String
     class_template = {K.fill_color: 'Asparagus'}

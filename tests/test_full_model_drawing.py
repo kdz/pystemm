@@ -27,7 +27,7 @@ class Cell(Concept):
     @rule
     def bar(self): pass
 
-
+# used because of undefined references
 Membrane.add_class_trait('surrounds', TR.Instance(Cell))
 
 m = Model(Cell, Membrane, Organelle)

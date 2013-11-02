@@ -1,3 +1,5 @@
+# example visualization of recursive function evaluation
+
 from model import *
 
 class Factorial(Concept):
