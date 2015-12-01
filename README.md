@@ -4,7 +4,7 @@ pystemm
 PySTEMM is a tool and model library for building executable concept models using a
 functional-programming style (immutable objects and pure functions).
 
-See [EuroSciPy 2013 proceedings](http://arxiv.org/pdf/1404.6387.pdf) for a paper with details. Here are some snippets (all visualizations were generated automatically by PySTEMM):
+See [EuroSciPy 2013 proceedings](http://arxiv.org/pdf/1404.6387.pdf) for a paper with details. Here are some snippets, with all visualizations generated automatically by PySTEMM:
 
 ![image](https://cloud.githubusercontent.com/assets/4351330/10559995/b8a3bc32-74c2-11e5-90dd-acf5cec64553.png)
 
